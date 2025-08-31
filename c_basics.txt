@@ -1,0 +1,132 @@
+brackets : 
+
+()  round bracket or bracket or parenthesis
+{}  curly 
+<>  angular
+[]  square 
+
+-----------------------
+
+colons 
+
+:  colon
+;  semi colon
+
+---------------------
+
+slash 
+
+/  forward slash or slash
+\  backward slash or backslash 
+
+----------------
+
+
+c is prog lang ? 
+
+lang => translator 
+
+================
+
+prog lang : 
+
+
+system => binary lang => 1 and 0 
+
+
+translator [compiler]
+
+
+
+us{english} => c lang => need of prog lang 
+
+===================
+
+history of c : 
+
+(1) dennis ritchie in 1972 (usa at & t bell labs )
+(2) mother of all prog lng
+(3) 
+
+===================
+
+steps to follow : 
+
+(1) write code => turbo c++
+(2) save code => first.c
+(3) compile code  => 
+(4) run code  => check result 
+
+================
+
+printf( "addition of 5 and 2 = %d" , 5 + 2 );
+
+
+23   integer no    %d or %i
+12.34  float no    %f 
+
+
+basic 
+
+
+
+
+===================================
+
+mon  wed  fri 
+
+gaurav sir full day 
+suraj sir (12 - 4)  bhy
+suraj sir (5 - 9) mira road => power bi 
+
+=================================
+
+tue thur sat 
+
+gaurav sir =>  (12 - 3)  bhy  and ( 4 - 9 ) mira road 
+suraj sir => parle (full day)
+avi sir => (3 - 9) bhy => Digital marketing 
+
+
+================================
+
+4 - 8 bhy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
